@@ -2,6 +2,7 @@
 Ein paar Fragen hier drin sind ganzschön wild aber hilft hoffentlich beim überprüfen was man so weiß
 
 Quelle: https://fabian.damken.net/summaries/cs/mandatory/fs5/vc/vc-summary.pdf
+
 Die Primärquelle der Fragen ist mir unbekannt
 
 Teilweise hab ich die Fragen selbst beantwortet, weil mir die Antworten von Fabian nicht Repräsentativ wirkten
